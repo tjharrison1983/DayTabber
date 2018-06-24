@@ -5,11 +5,14 @@
  */
 package com.daytabber.ui;
 
+import javax.swing.JFrame;
+import javax.swing.SwingUtilities;
+
 /**
  *
  * @author tomharrison
  */
-public class DayTabber {
+public class DayTabber extends JFrame{
 
     /**
      * @param args the command line arguments
