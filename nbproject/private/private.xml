@@ -4,8 +4,8 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/Users/tomharrison/NetBeansProjects/DayTabber/src/com/daytabber/ui/DayTabber.java</file>
-            <file>file:/Users/tomharrison/NetBeansProjects/DayTabber/src/com/daytabber/ui/DTabberMainUI.java</file>
             <file>file:/Users/tomharrison/NetBeansProjects/DayTabber/src/com/daytabber/ui/AddEventType.java</file>
+            <file>file:/Users/tomharrison/NetBeansProjects/DayTabber/src/com/daytabber/ui/NewOkCancelDialog.java</file>
         </group>
     </open-files>
 </project-private>
